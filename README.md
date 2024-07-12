@@ -18,3 +18,6 @@ This Python script uses Selenium with headless Chrome and BeautifulSoup to scrap
    ```bash
    git clone <repository_url>
    cd <repository_directory>
+=======
+# Headless_Web_Scraper
+Utilizing Selenium with headless Chrome and BeautifulSoup, this Python script extracts text content from dynamic web pages. Ideal for automated data collection and analysis tasks.
